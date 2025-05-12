@@ -8,7 +8,8 @@ Included files:
 - Visual brand elements
 
 🔗 Visit: [https://AMLOV.org](https://AMLOV.org)  
-📎 View our latest Capability Statement: [Download PDF](https://amlov-fintech.github.io/amlov-assets/AMLOV_Capability_Statement_2025_Sealed)
+📎 View our latest Capability Statement: [Download PDF](https://amlov-fintech.github.io/amlov-assets/AMLOV_Capability_Statement_2025_Sealed.pdf)
+
 
 ---
 
